@@ -5,8 +5,11 @@ This project focuses on building an end-to-end business intelligence dashboard u
 
 # 🔍 What This Project Covers
 Combined and cleaned multi-year sales data (2015–2017)
+
 Built a star schema data model connecting Sales, Products, Customers, Territories, Calendar, and Returns
+
 Created KPIs and calculated metrics for sales, profit, margins, discounts, and returns
+
 Designed an interactive dashboard with dynamic filters and drill-down analysis
 
 # 📈 Key Dashboard Insights
