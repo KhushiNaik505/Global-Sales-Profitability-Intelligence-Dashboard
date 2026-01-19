@@ -39,6 +39,6 @@ Make faster, data-backed strategic decisions
 # Author
 Khushi Anand Naik
 
-# Dashboar Preview
+# Dashboard Preview
 <img width="602" height="338" alt="Adventure Works" src="https://github.com/user-attachments/assets/3df08785-a27a-4773-a901-8123b194a340" />
 
