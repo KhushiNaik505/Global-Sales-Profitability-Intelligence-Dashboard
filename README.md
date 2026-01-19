@@ -14,29 +14,42 @@ Designed an interactive dashboard with dynamic filters and drill-down analysis
 
 # 📈 Key Dashboard Insights
 📊 Sales & Profit Trends (Yearly)
+
 🌍 Regional Performance Analysis
+
 🛒 Top & Low-Performing Products by Profitability
+
 👥 Customer Segmentation & High-Value Customers
 
 # 🧮 KPIs Included
 Total Sales
+
 Total Profit
+
 Total Orders
 
 # 🛠 Tools & Technologies
 
 Power BI– Dashboarding & visualization
+
 Power Query – Data cleaning & transformation
+
 DAX / Calculated Fields – Advanced analytics
+
 CSV Data Sources – Adventure Works dataset
 
 # 💡 Business Value
 
 This dashboard enables stakeholders to:
+
 Identify high-profit and loss-making products
+
 Monitor regional growth opportunities
+
 Understand how discounts and returns affect margins
+
 Track customer contribution to revenue
+
 Make faster, data-backed strategic decisions
 
 # Author
